@@ -8,11 +8,11 @@
 
   `cd CheckFile`
 
-- Run the *install.sh* file to install the program 'install.sh' automatically.
+- Run the *install.sh* file to install the script 'install.sh' automatically.
 
   `sudo bash install.sh`
 
-- **Done!** Now you can call the program by typing name in the terminal
+- **Done!** Now you are ready to search any file or directory using this script. Here are some examples for you.
 
   `checkfile regularfile`
 
