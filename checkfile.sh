@@ -3,7 +3,7 @@
 
 #If no file name mentioned..
 if [ -z $1 ]; then
-echo -e "[!] Pass a file name with program.\nExample:\ncheckfile testfile"
+echo -e "[!] Pass a file name with program.\n\nusage: checkfile [filename]\n\nExample:\ncheckfile testfile.txt"
 exit
 else
 
