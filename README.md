@@ -16,4 +16,4 @@
 
   `checkfile`
   
-  ![Screenshot]("Screenshots/screenshot.png")
+  ![screenshot]("screenshots/screenshot.png")
