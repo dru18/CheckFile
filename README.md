@@ -1,5 +1,14 @@
 # checkfile
 
+  ![checkfiler.png](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilee.png)
+
+This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you automatically. These dependencies are,
+
+- cowsay
+- toilet
+
+> Hit **enter** or **y** for 'Yes' if it asks you to continue for install dependencies.
+
 - Clone the repository
 
   `git clone https://github.com/dru18/CheckFile.git`
@@ -29,3 +38,5 @@
 - If you give no parameter it suggest you to give any parameter to search for.
 
   ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilen.png)
+
+# Good Luck. :+1:
