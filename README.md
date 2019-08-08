@@ -1,9 +1,19 @@
 # checkfile
 
-**Run the *install.sh* file to install the program 'install.sh' automatically.**
+- Clone the repository
 
-`sudo bash install.sh`
+  `git clone https://github.com/dru18/CheckFile.git`
 
-**Done now you can call the program by typing name in the terminal**
+- Enter into **CheckFile** directory.
 
-`checkfile`
+  `cd CheckFile`
+
+- Run the *install.sh* file to install the program 'install.sh' automatically.
+
+  `sudo bash install.sh`
+
+- **Done!** Now you can call the program by typing name in the terminal
+
+  `checkfile`
+  
+  ![Screenshot]("Screenshots/screenshot.png")
