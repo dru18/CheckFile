@@ -13,7 +13,12 @@
   `sudo bash install.sh`
 
 - **Done!** Now you can call the program by typing name in the terminal
+  `checkfile regularfile`
 
-  `checkfile`
+  `checkfile testdir/`
+
+  `checkfile executablefile.sh`
   
+- If you give no parameter it suggest you to give any parameter to search for.
+
   ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/screenshot.png)
