@@ -16,4 +16,4 @@
 
   `checkfile`
   
-  ![screenshot]("screenshots/screenshot.png")
+  ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/screenshot.png)
