@@ -39,4 +39,4 @@ This script needs to have some additional packages to be installed on your syste
 
   ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilen.png)
 
-# Good Luck. :+1: :penguin:
+# Good Luck. :penguin:
