@@ -7,7 +7,7 @@ This script needs to have some additional packages to be installed on your syste
 - cowsay
 - toilet
 
-> Hit **enter** or **y** for 'Yes' if it asks you to continue for install dependencies.
+> Hit **enter** or **y** for 'Yes' if it asks you to continue to install dependencies.
 
 - Clone the repository
 
