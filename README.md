@@ -40,4 +40,11 @@ This script needs to have some additional packages to be installed on your syste
 
   ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilen.png)
 
+- Run the *uninstall.sh* file to uninstall the script and it's dependencies.
+
+  `sudo bash uninstall.sh`
+
+> Hit **enter** or **y** for 'Yes' if it asks you to continue to uninstall dependencies.
+
+
 # Good Luck. :penguin:
