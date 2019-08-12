@@ -1,10 +1,10 @@
 #! /bin/bash
 
-# Remove soft link 'checkfile' from /bin/ directory.
-sudo rm /bin/checkfile
+# Remove soft link 'simplewatch' from /bin/ directory.
+sudo rm /bin/simplewatch
 
-# Remove 'checkfile.sh' script from /usr/bin/ directory.
-sudo rm /usr/bin/checkfile.sh
+# Remove 'simplewatch.sh' script from /usr/bin/ directory.
+sudo rm /usr/bin/simplewatch.sh
 
 # purge dependencies.
 sudo apt purge cowsay toilet

@@ -1,6 +1,6 @@
-# checkfile
+# simplewatch
 
-  ![checkfiler.png](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilee.png)
+  ![simplewatch.png](https://github.com/dru18/simplewatch/blob/master/screenshots/simplewatche.png)
 
 This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you automatically. These dependencies are,
 
@@ -12,11 +12,11 @@ This script needs to have some additional packages to be installed on your syste
 
 - Clone the repository
 
-  `git clone https://github.com/dru18/CheckFile.git`
+  `git clone https://github.com/dru18/simplewatch.git`
 
-- Enter into **CheckFile** directory.
+- Enter into **simplewatch** directory.
 
-  `cd CheckFile`
+  `cd simplewatch`
 
 - Run the *install.sh* file to install the script 'install.sh' automatically.
 
@@ -24,27 +24,26 @@ This script needs to have some additional packages to be installed on your syste
 
 - **Done!** Now you are ready to search any file or directory using this script. Here are some examples for you.
 
-  `checkfile regularfile`
+  `simplewatch`
 
-  ![checkfiler.png](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfiler.png)
+  ![simplewatch.png](https://github.com/dru18/simplewatch/blob/master/screenshots/simplewatch.png)
 
-  `checkfile testdir/`
+  `simplewatch testfile.txt`
 
-  ![checkfiler.png](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfiled.png)
+  ![simplewatchf.png](https://github.com/dru18/simplewatch/blob/master/screenshots/simplewatchf.png)
 
-  `checkfile executablefile.sh`
+  `simplewatch testdir.sh`
   
-  ![checkfiler.png](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilee.png)
+  ![simplewatchd.png](https://github.com/dru18/simplewatch/blob/master/screenshots/simplewatchd.png)
 
-- If you give no parameter it suggest you to give any parameter to search for.
-
-  ![screenshot](https://github.com/dru18/CheckFile/blob/master/screenshots/checkfilen.png)
+  `simplewatch executablefile.sh`
+  
+  ![simplewatchda.png](https://github.com/dru18/simplewatch/blob/master/screenshots/simplewatchda.png)
 
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
   `sudo bash uninstall.sh`
 
 > Hit **enter** or **y** for 'Yes' if it asks you to continue to uninstall dependencies.
-
 
 # Good Luck. :penguin:
